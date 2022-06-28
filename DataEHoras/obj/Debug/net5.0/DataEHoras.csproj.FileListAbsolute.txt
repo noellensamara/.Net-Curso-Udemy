@@ -1,0 +1,15 @@
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DataEHoras\bin\Debug\net5.0\DataEHoras.exe
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DataEHoras\bin\Debug\net5.0\DataEHoras.deps.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DataEHoras\bin\Debug\net5.0\DataEHoras.runtimeconfig.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DataEHoras\bin\Debug\net5.0\DataEHoras.runtimeconfig.dev.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DataEHoras\bin\Debug\net5.0\DataEHoras.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DataEHoras\bin\Debug\net5.0\ref\DataEHoras.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DataEHoras\bin\Debug\net5.0\DataEHoras.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DataEHoras\obj\Debug\net5.0\DataEHoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DataEHoras\obj\Debug\net5.0\DataEHoras.AssemblyInfoInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DataEHoras\obj\Debug\net5.0\DataEHoras.AssemblyInfo.cs
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DataEHoras\obj\Debug\net5.0\DataEHoras.csproj.CoreCompileInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DataEHoras\obj\Debug\net5.0\DataEHoras.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DataEHoras\obj\Debug\net5.0\ref\DataEHoras.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DataEHoras\obj\Debug\net5.0\DataEHoras.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DataEHoras\obj\Debug\net5.0\DataEHoras.genruntimeconfig.cache

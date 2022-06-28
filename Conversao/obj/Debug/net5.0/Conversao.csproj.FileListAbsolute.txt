@@ -1,0 +1,15 @@
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Conversao\bin\Debug\net5.0\Conversao.exe
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Conversao\bin\Debug\net5.0\Conversao.deps.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Conversao\bin\Debug\net5.0\Conversao.runtimeconfig.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Conversao\bin\Debug\net5.0\Conversao.runtimeconfig.dev.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Conversao\bin\Debug\net5.0\Conversao.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Conversao\bin\Debug\net5.0\ref\Conversao.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Conversao\bin\Debug\net5.0\Conversao.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Conversao\obj\Debug\net5.0\Conversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Conversao\obj\Debug\net5.0\Conversao.AssemblyInfoInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Conversao\obj\Debug\net5.0\Conversao.AssemblyInfo.cs
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Conversao\obj\Debug\net5.0\Conversao.csproj.CoreCompileInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Conversao\obj\Debug\net5.0\Conversao.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Conversao\obj\Debug\net5.0\ref\Conversao.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Conversao\obj\Debug\net5.0\Conversao.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Conversao\obj\Debug\net5.0\Conversao.genruntimeconfig.cache
