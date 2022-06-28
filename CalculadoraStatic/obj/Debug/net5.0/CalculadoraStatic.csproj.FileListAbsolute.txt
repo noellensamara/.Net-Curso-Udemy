@@ -1,0 +1,15 @@
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\CalculadoraStatic\obj\Debug\net5.0\CalculadoraStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\CalculadoraStatic\obj\Debug\net5.0\CalculadoraStatic.AssemblyInfoInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\CalculadoraStatic\obj\Debug\net5.0\CalculadoraStatic.AssemblyInfo.cs
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\CalculadoraStatic\obj\Debug\net5.0\CalculadoraStatic.csproj.CoreCompileInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\CalculadoraStatic\bin\Debug\net5.0\CalculadoraStatic.exe
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\CalculadoraStatic\bin\Debug\net5.0\CalculadoraStatic.deps.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\CalculadoraStatic\bin\Debug\net5.0\CalculadoraStatic.runtimeconfig.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\CalculadoraStatic\bin\Debug\net5.0\CalculadoraStatic.runtimeconfig.dev.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\CalculadoraStatic\bin\Debug\net5.0\CalculadoraStatic.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\CalculadoraStatic\bin\Debug\net5.0\ref\CalculadoraStatic.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\CalculadoraStatic\bin\Debug\net5.0\CalculadoraStatic.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\CalculadoraStatic\obj\Debug\net5.0\CalculadoraStatic.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\CalculadoraStatic\obj\Debug\net5.0\ref\CalculadoraStatic.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\CalculadoraStatic\obj\Debug\net5.0\CalculadoraStatic.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\CalculadoraStatic\obj\Debug\net5.0\CalculadoraStatic.genruntimeconfig.cache
