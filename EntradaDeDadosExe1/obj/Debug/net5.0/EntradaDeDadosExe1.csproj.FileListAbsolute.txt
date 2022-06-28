@@ -1,0 +1,15 @@
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\EntradaDeDadosExe1\bin\Debug\net5.0\EntradaDeDadosExe1.exe
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\EntradaDeDadosExe1\bin\Debug\net5.0\EntradaDeDadosExe1.deps.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\EntradaDeDadosExe1\bin\Debug\net5.0\EntradaDeDadosExe1.runtimeconfig.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\EntradaDeDadosExe1\bin\Debug\net5.0\EntradaDeDadosExe1.runtimeconfig.dev.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\EntradaDeDadosExe1\bin\Debug\net5.0\EntradaDeDadosExe1.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\EntradaDeDadosExe1\bin\Debug\net5.0\ref\EntradaDeDadosExe1.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\EntradaDeDadosExe1\bin\Debug\net5.0\EntradaDeDadosExe1.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\EntradaDeDadosExe1\obj\Debug\net5.0\EntradaDeDadosExe1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\EntradaDeDadosExe1\obj\Debug\net5.0\EntradaDeDadosExe1.AssemblyInfoInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\EntradaDeDadosExe1\obj\Debug\net5.0\EntradaDeDadosExe1.AssemblyInfo.cs
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\EntradaDeDadosExe1\obj\Debug\net5.0\EntradaDeDadosExe1.csproj.CoreCompileInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\EntradaDeDadosExe1\obj\Debug\net5.0\EntradaDeDadosExe1.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\EntradaDeDadosExe1\obj\Debug\net5.0\ref\EntradaDeDadosExe1.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\EntradaDeDadosExe1\obj\Debug\net5.0\EntradaDeDadosExe1.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\EntradaDeDadosExe1\obj\Debug\net5.0\EntradaDeDadosExe1.genruntimeconfig.cache

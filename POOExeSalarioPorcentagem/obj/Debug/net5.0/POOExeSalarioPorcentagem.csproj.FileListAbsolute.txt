@@ -1,0 +1,15 @@
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeSalarioPorcentagem\bin\Debug\net5.0\POOExeSalarioPorcentagem.exe
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeSalarioPorcentagem\bin\Debug\net5.0\POOExeSalarioPorcentagem.deps.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeSalarioPorcentagem\bin\Debug\net5.0\POOExeSalarioPorcentagem.runtimeconfig.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeSalarioPorcentagem\bin\Debug\net5.0\POOExeSalarioPorcentagem.runtimeconfig.dev.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeSalarioPorcentagem\bin\Debug\net5.0\POOExeSalarioPorcentagem.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeSalarioPorcentagem\bin\Debug\net5.0\ref\POOExeSalarioPorcentagem.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeSalarioPorcentagem\bin\Debug\net5.0\POOExeSalarioPorcentagem.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeSalarioPorcentagem\obj\Debug\net5.0\POOExeSalarioPorcentagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeSalarioPorcentagem\obj\Debug\net5.0\POOExeSalarioPorcentagem.AssemblyInfoInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeSalarioPorcentagem\obj\Debug\net5.0\POOExeSalarioPorcentagem.AssemblyInfo.cs
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeSalarioPorcentagem\obj\Debug\net5.0\POOExeSalarioPorcentagem.csproj.CoreCompileInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeSalarioPorcentagem\obj\Debug\net5.0\POOExeSalarioPorcentagem.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeSalarioPorcentagem\obj\Debug\net5.0\ref\POOExeSalarioPorcentagem.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeSalarioPorcentagem\obj\Debug\net5.0\POOExeSalarioPorcentagem.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeSalarioPorcentagem\obj\Debug\net5.0\POOExeSalarioPorcentagem.genruntimeconfig.cache

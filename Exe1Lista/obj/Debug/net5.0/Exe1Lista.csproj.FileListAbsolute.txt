@@ -1,0 +1,15 @@
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Lista\bin\Debug\net5.0\Exe1Lista.exe
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Lista\bin\Debug\net5.0\Exe1Lista.deps.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Lista\bin\Debug\net5.0\Exe1Lista.runtimeconfig.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Lista\bin\Debug\net5.0\Exe1Lista.runtimeconfig.dev.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Lista\bin\Debug\net5.0\Exe1Lista.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Lista\bin\Debug\net5.0\ref\Exe1Lista.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Lista\bin\Debug\net5.0\Exe1Lista.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Lista\obj\Debug\net5.0\Exe1Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Lista\obj\Debug\net5.0\Exe1Lista.AssemblyInfoInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Lista\obj\Debug\net5.0\Exe1Lista.AssemblyInfo.cs
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Lista\obj\Debug\net5.0\Exe1Lista.csproj.CoreCompileInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Lista\obj\Debug\net5.0\Exe1Lista.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Lista\obj\Debug\net5.0\ref\Exe1Lista.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Lista\obj\Debug\net5.0\Exe1Lista.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Lista\obj\Debug\net5.0\Exe1Lista.genruntimeconfig.cache

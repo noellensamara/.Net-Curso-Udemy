@@ -1,0 +1,15 @@
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto2Construtor\bin\Debug\net5.0\POOProduto2Construtor.exe
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto2Construtor\bin\Debug\net5.0\POOProduto2Construtor.deps.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto2Construtor\bin\Debug\net5.0\POOProduto2Construtor.runtimeconfig.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto2Construtor\bin\Debug\net5.0\POOProduto2Construtor.runtimeconfig.dev.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto2Construtor\bin\Debug\net5.0\POOProduto2Construtor.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto2Construtor\bin\Debug\net5.0\ref\POOProduto2Construtor.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto2Construtor\bin\Debug\net5.0\POOProduto2Construtor.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto2Construtor\obj\Debug\net5.0\POOProduto2Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto2Construtor\obj\Debug\net5.0\POOProduto2Construtor.AssemblyInfoInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto2Construtor\obj\Debug\net5.0\POOProduto2Construtor.AssemblyInfo.cs
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto2Construtor\obj\Debug\net5.0\POOProduto2Construtor.csproj.CoreCompileInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto2Construtor\obj\Debug\net5.0\POOProduto2Construtor.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto2Construtor\obj\Debug\net5.0\ref\POOProduto2Construtor.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto2Construtor\obj\Debug\net5.0\POOProduto2Construtor.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto2Construtor\obj\Debug\net5.0\POOProduto2Construtor.genruntimeconfig.cache

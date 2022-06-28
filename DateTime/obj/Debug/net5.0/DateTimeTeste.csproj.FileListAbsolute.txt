@@ -1,0 +1,16 @@
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DateTime\bin\Debug\net5.0\DateTimeTeste.exe
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DateTime\bin\Debug\net5.0\DateTimeTeste.deps.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DateTime\bin\Debug\net5.0\DateTimeTeste.runtimeconfig.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DateTime\bin\Debug\net5.0\DateTimeTeste.runtimeconfig.dev.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DateTime\bin\Debug\net5.0\DateTimeTeste.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DateTime\bin\Debug\net5.0\ref\DateTimeTeste.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DateTime\bin\Debug\net5.0\DateTimeTeste.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DateTime\obj\Debug\net5.0\DateTimeTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DateTime\obj\Debug\net5.0\DateTimeTeste.AssemblyInfoInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DateTime\obj\Debug\net5.0\DateTimeTeste.AssemblyInfo.cs
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DateTime\obj\Debug\net5.0\DateTimeTeste.csproj.CoreCompileInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DateTime\obj\Debug\net5.0\DateTimeTeste.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DateTime\obj\Debug\net5.0\ref\DateTimeTeste.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DateTime\obj\Debug\net5.0\DateTimeTeste.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DateTime\obj\Debug\net5.0\DateTimeTeste.genruntimeconfig.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\DateTime\obj\Debug\net5.0\DateTimeTeste.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorParams\obj\Debug\net5.0\ModificadorParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorParams\obj\Debug\net5.0\ModificadorParams.AssemblyInfoInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorParams\obj\Debug\net5.0\ModificadorParams.AssemblyInfo.cs
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorParams\obj\Debug\net5.0\ModificadorParams.csproj.CoreCompileInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorParams\bin\Debug\net5.0\ModificadorParams.exe
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorParams\bin\Debug\net5.0\ModificadorParams.deps.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorParams\bin\Debug\net5.0\ModificadorParams.runtimeconfig.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorParams\bin\Debug\net5.0\ModificadorParams.runtimeconfig.dev.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorParams\bin\Debug\net5.0\ModificadorParams.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorParams\bin\Debug\net5.0\ref\ModificadorParams.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorParams\bin\Debug\net5.0\ModificadorParams.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorParams\obj\Debug\net5.0\ModificadorParams.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorParams\obj\Debug\net5.0\ref\ModificadorParams.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorParams\obj\Debug\net5.0\ModificadorParams.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorParams\obj\Debug\net5.0\ModificadorParams.genruntimeconfig.cache

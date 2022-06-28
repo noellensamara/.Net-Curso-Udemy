@@ -1,0 +1,15 @@
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeContaBancariaEncapsulamento\bin\Debug\net5.0\POOExeContaBancariaEncapsulamento.exe
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeContaBancariaEncapsulamento\bin\Debug\net5.0\POOExeContaBancariaEncapsulamento.deps.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeContaBancariaEncapsulamento\bin\Debug\net5.0\POOExeContaBancariaEncapsulamento.runtimeconfig.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeContaBancariaEncapsulamento\bin\Debug\net5.0\POOExeContaBancariaEncapsulamento.runtimeconfig.dev.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeContaBancariaEncapsulamento\bin\Debug\net5.0\POOExeContaBancariaEncapsulamento.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeContaBancariaEncapsulamento\bin\Debug\net5.0\ref\POOExeContaBancariaEncapsulamento.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeContaBancariaEncapsulamento\bin\Debug\net5.0\POOExeContaBancariaEncapsulamento.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeContaBancariaEncapsulamento\obj\Debug\net5.0\POOExeContaBancariaEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeContaBancariaEncapsulamento\obj\Debug\net5.0\POOExeContaBancariaEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeContaBancariaEncapsulamento\obj\Debug\net5.0\POOExeContaBancariaEncapsulamento.AssemblyInfo.cs
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeContaBancariaEncapsulamento\obj\Debug\net5.0\POOExeContaBancariaEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeContaBancariaEncapsulamento\obj\Debug\net5.0\POOExeContaBancariaEncapsulamento.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeContaBancariaEncapsulamento\obj\Debug\net5.0\ref\POOExeContaBancariaEncapsulamento.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeContaBancariaEncapsulamento\obj\Debug\net5.0\POOExeContaBancariaEncapsulamento.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeContaBancariaEncapsulamento\obj\Debug\net5.0\POOExeContaBancariaEncapsulamento.genruntimeconfig.cache

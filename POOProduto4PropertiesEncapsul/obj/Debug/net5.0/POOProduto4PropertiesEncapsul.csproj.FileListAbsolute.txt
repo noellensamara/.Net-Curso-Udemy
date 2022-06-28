@@ -1,0 +1,16 @@
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto4PropertiesEncapsul\obj\Debug\net5.0\POOProduto4PropertiesEncapsul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto4PropertiesEncapsul\obj\Debug\net5.0\POOProduto4PropertiesEncapsul.AssemblyInfoInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto4PropertiesEncapsul\obj\Debug\net5.0\POOProduto4PropertiesEncapsul.AssemblyInfo.cs
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto4PropertiesEncapsul\obj\Debug\net5.0\POOProduto4PropertiesEncapsul.csproj.CoreCompileInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto4PropertiesEncapsul\bin\Debug\net5.0\POOProduto4PropertiesEncapsul.exe
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto4PropertiesEncapsul\bin\Debug\net5.0\POOProduto4PropertiesEncapsul.deps.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto4PropertiesEncapsul\bin\Debug\net5.0\POOProduto4PropertiesEncapsul.runtimeconfig.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto4PropertiesEncapsul\bin\Debug\net5.0\POOProduto4PropertiesEncapsul.runtimeconfig.dev.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto4PropertiesEncapsul\bin\Debug\net5.0\POOProduto4PropertiesEncapsul.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto4PropertiesEncapsul\bin\Debug\net5.0\ref\POOProduto4PropertiesEncapsul.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto4PropertiesEncapsul\bin\Debug\net5.0\POOProduto4PropertiesEncapsul.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto4PropertiesEncapsul\obj\Debug\net5.0\POOProduto4PropertiesEncapsul.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto4PropertiesEncapsul\obj\Debug\net5.0\ref\POOProduto4PropertiesEncapsul.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto4PropertiesEncapsul\obj\Debug\net5.0\POOProduto4PropertiesEncapsul.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto4PropertiesEncapsul\obj\Debug\net5.0\POOProduto4PropertiesEncapsul.genruntimeconfig.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto4PropertiesEncapsul\obj\Debug\net5.0\POOProduto4PropertiesEncapsul.csproj.AssemblyReference.cache

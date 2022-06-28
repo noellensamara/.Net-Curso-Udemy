@@ -1,0 +1,15 @@
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Vetor2Produto\obj\Debug\net5.0\Vetor2Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Vetor2Produto\obj\Debug\net5.0\Vetor2Produto.AssemblyInfoInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Vetor2Produto\obj\Debug\net5.0\Vetor2Produto.AssemblyInfo.cs
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Vetor2Produto\obj\Debug\net5.0\Vetor2Produto.csproj.CoreCompileInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Vetor2Produto\bin\Debug\net5.0\Vetor2Produto.exe
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Vetor2Produto\bin\Debug\net5.0\Vetor2Produto.deps.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Vetor2Produto\bin\Debug\net5.0\Vetor2Produto.runtimeconfig.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Vetor2Produto\bin\Debug\net5.0\Vetor2Produto.runtimeconfig.dev.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Vetor2Produto\bin\Debug\net5.0\Vetor2Produto.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Vetor2Produto\bin\Debug\net5.0\ref\Vetor2Produto.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Vetor2Produto\bin\Debug\net5.0\Vetor2Produto.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Vetor2Produto\obj\Debug\net5.0\Vetor2Produto.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Vetor2Produto\obj\Debug\net5.0\ref\Vetor2Produto.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Vetor2Produto\obj\Debug\net5.0\Vetor2Produto.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Vetor2Produto\obj\Debug\net5.0\Vetor2Produto.genruntimeconfig.cache

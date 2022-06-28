@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "POOProduto4PropertiesEncapsul/1.0.0": {
+        "runtime": {
+          "POOProduto4PropertiesEncapsul.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POOProduto4PropertiesEncapsul/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

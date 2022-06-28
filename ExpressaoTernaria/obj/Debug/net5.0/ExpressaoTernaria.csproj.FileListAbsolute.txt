@@ -1,0 +1,15 @@
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExpressaoTernaria\bin\Debug\net5.0\ExpressaoTernaria.exe
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExpressaoTernaria\bin\Debug\net5.0\ExpressaoTernaria.deps.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExpressaoTernaria\bin\Debug\net5.0\ExpressaoTernaria.runtimeconfig.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExpressaoTernaria\bin\Debug\net5.0\ExpressaoTernaria.runtimeconfig.dev.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExpressaoTernaria\bin\Debug\net5.0\ExpressaoTernaria.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExpressaoTernaria\bin\Debug\net5.0\ref\ExpressaoTernaria.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExpressaoTernaria\bin\Debug\net5.0\ExpressaoTernaria.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExpressaoTernaria\obj\Debug\net5.0\ExpressaoTernaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExpressaoTernaria\obj\Debug\net5.0\ExpressaoTernaria.AssemblyInfoInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExpressaoTernaria\obj\Debug\net5.0\ExpressaoTernaria.AssemblyInfo.cs
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExpressaoTernaria\obj\Debug\net5.0\ExpressaoTernaria.csproj.CoreCompileInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExpressaoTernaria\obj\Debug\net5.0\ExpressaoTernaria.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExpressaoTernaria\obj\Debug\net5.0\ref\ExpressaoTernaria.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExpressaoTernaria\obj\Debug\net5.0\ExpressaoTernaria.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExpressaoTernaria\obj\Debug\net5.0\ExpressaoTernaria.genruntimeconfig.cache

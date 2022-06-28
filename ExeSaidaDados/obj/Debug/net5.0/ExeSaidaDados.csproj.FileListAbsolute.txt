@@ -1,0 +1,16 @@
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeSaidaDados\bin\Debug\net5.0\ExeSaidaDados.exe
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeSaidaDados\bin\Debug\net5.0\ExeSaidaDados.deps.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeSaidaDados\bin\Debug\net5.0\ExeSaidaDados.runtimeconfig.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeSaidaDados\bin\Debug\net5.0\ExeSaidaDados.runtimeconfig.dev.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeSaidaDados\bin\Debug\net5.0\ExeSaidaDados.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeSaidaDados\bin\Debug\net5.0\ref\ExeSaidaDados.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeSaidaDados\bin\Debug\net5.0\ExeSaidaDados.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeSaidaDados\obj\Debug\net5.0\ExeSaidaDados.csproj.AssemblyReference.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeSaidaDados\obj\Debug\net5.0\ExeSaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeSaidaDados\obj\Debug\net5.0\ExeSaidaDados.AssemblyInfoInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeSaidaDados\obj\Debug\net5.0\ExeSaidaDados.AssemblyInfo.cs
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeSaidaDados\obj\Debug\net5.0\ExeSaidaDados.csproj.CoreCompileInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeSaidaDados\obj\Debug\net5.0\ExeSaidaDados.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeSaidaDados\obj\Debug\net5.0\ref\ExeSaidaDados.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeSaidaDados\obj\Debug\net5.0\ExeSaidaDados.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeSaidaDados\obj\Debug\net5.0\ExeSaidaDados.genruntimeconfig.cache

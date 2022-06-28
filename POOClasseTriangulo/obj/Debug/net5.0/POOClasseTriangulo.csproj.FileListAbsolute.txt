@@ -1,0 +1,16 @@
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOClasseTriangulo\bin\Debug\net5.0\POOClasseTriangulo.exe
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOClasseTriangulo\bin\Debug\net5.0\POOClasseTriangulo.deps.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOClasseTriangulo\bin\Debug\net5.0\POOClasseTriangulo.runtimeconfig.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOClasseTriangulo\bin\Debug\net5.0\POOClasseTriangulo.runtimeconfig.dev.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOClasseTriangulo\bin\Debug\net5.0\POOClasseTriangulo.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOClasseTriangulo\bin\Debug\net5.0\ref\POOClasseTriangulo.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOClasseTriangulo\bin\Debug\net5.0\POOClasseTriangulo.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOClasseTriangulo\obj\Debug\net5.0\POOClasseTriangulo.csproj.AssemblyReference.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOClasseTriangulo\obj\Debug\net5.0\POOClasseTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOClasseTriangulo\obj\Debug\net5.0\POOClasseTriangulo.AssemblyInfoInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOClasseTriangulo\obj\Debug\net5.0\POOClasseTriangulo.AssemblyInfo.cs
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOClasseTriangulo\obj\Debug\net5.0\POOClasseTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOClasseTriangulo\obj\Debug\net5.0\POOClasseTriangulo.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOClasseTriangulo\obj\Debug\net5.0\ref\POOClasseTriangulo.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOClasseTriangulo\obj\Debug\net5.0\POOClasseTriangulo.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOClasseTriangulo\obj\Debug\net5.0\POOClasseTriangulo.genruntimeconfig.cache

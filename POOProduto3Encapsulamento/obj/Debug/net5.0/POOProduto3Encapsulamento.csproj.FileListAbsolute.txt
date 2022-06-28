@@ -1,0 +1,16 @@
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto3Encapsulamento\bin\Debug\net5.0\POOProduto3Encapsulamento.exe
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto3Encapsulamento\bin\Debug\net5.0\POOProduto3Encapsulamento.deps.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto3Encapsulamento\bin\Debug\net5.0\POOProduto3Encapsulamento.runtimeconfig.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto3Encapsulamento\bin\Debug\net5.0\POOProduto3Encapsulamento.runtimeconfig.dev.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto3Encapsulamento\bin\Debug\net5.0\POOProduto3Encapsulamento.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto3Encapsulamento\bin\Debug\net5.0\ref\POOProduto3Encapsulamento.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto3Encapsulamento\bin\Debug\net5.0\POOProduto3Encapsulamento.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto3Encapsulamento\obj\Debug\net5.0\POOProduto3Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto3Encapsulamento\obj\Debug\net5.0\POOProduto3Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto3Encapsulamento\obj\Debug\net5.0\POOProduto3Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto3Encapsulamento\obj\Debug\net5.0\POOProduto3Encapsulamento.AssemblyInfo.cs
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto3Encapsulamento\obj\Debug\net5.0\POOProduto3Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto3Encapsulamento\obj\Debug\net5.0\POOProduto3Encapsulamento.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto3Encapsulamento\obj\Debug\net5.0\ref\POOProduto3Encapsulamento.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto3Encapsulamento\obj\Debug\net5.0\POOProduto3Encapsulamento.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOProduto3Encapsulamento\obj\Debug\net5.0\POOProduto3Encapsulamento.genruntimeconfig.cache

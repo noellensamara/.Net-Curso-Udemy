@@ -1,0 +1,16 @@
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\OperadoresAtribuicao\bin\Debug\net5.0\OperadoresAtribuicao.exe
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\OperadoresAtribuicao\bin\Debug\net5.0\OperadoresAtribuicao.deps.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\OperadoresAtribuicao\bin\Debug\net5.0\OperadoresAtribuicao.runtimeconfig.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\OperadoresAtribuicao\bin\Debug\net5.0\OperadoresAtribuicao.runtimeconfig.dev.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\OperadoresAtribuicao\bin\Debug\net5.0\OperadoresAtribuicao.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\OperadoresAtribuicao\bin\Debug\net5.0\ref\OperadoresAtribuicao.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\OperadoresAtribuicao\bin\Debug\net5.0\OperadoresAtribuicao.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\OperadoresAtribuicao\obj\Debug\net5.0\OperadoresAtribuicao.csproj.AssemblyReference.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\OperadoresAtribuicao\obj\Debug\net5.0\OperadoresAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\OperadoresAtribuicao\obj\Debug\net5.0\OperadoresAtribuicao.AssemblyInfoInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\OperadoresAtribuicao\obj\Debug\net5.0\OperadoresAtribuicao.AssemblyInfo.cs
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\OperadoresAtribuicao\obj\Debug\net5.0\OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\OperadoresAtribuicao\obj\Debug\net5.0\OperadoresAtribuicao.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\OperadoresAtribuicao\obj\Debug\net5.0\ref\OperadoresAtribuicao.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\OperadoresAtribuicao\obj\Debug\net5.0\OperadoresAtribuicao.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\OperadoresAtribuicao\obj\Debug\net5.0\OperadoresAtribuicao.genruntimeconfig.cache

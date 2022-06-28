@@ -1,0 +1,15 @@
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeNomePessoa\bin\Debug\net5.0\POOExeNomePessoa.exe
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeNomePessoa\bin\Debug\net5.0\POOExeNomePessoa.deps.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeNomePessoa\bin\Debug\net5.0\POOExeNomePessoa.runtimeconfig.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeNomePessoa\bin\Debug\net5.0\POOExeNomePessoa.runtimeconfig.dev.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeNomePessoa\bin\Debug\net5.0\POOExeNomePessoa.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeNomePessoa\bin\Debug\net5.0\ref\POOExeNomePessoa.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeNomePessoa\bin\Debug\net5.0\POOExeNomePessoa.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeNomePessoa\obj\Debug\net5.0\POOExeNomePessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeNomePessoa\obj\Debug\net5.0\POOExeNomePessoa.AssemblyInfoInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeNomePessoa\obj\Debug\net5.0\POOExeNomePessoa.AssemblyInfo.cs
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeNomePessoa\obj\Debug\net5.0\POOExeNomePessoa.csproj.CoreCompileInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeNomePessoa\obj\Debug\net5.0\POOExeNomePessoa.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeNomePessoa\obj\Debug\net5.0\ref\POOExeNomePessoa.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeNomePessoa\obj\Debug\net5.0\POOExeNomePessoa.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\POOExeNomePessoa\obj\Debug\net5.0\POOExeNomePessoa.genruntimeconfig.cache

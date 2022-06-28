@@ -1,0 +1,15 @@
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Vetor\bin\Debug\net5.0\Exe1Vetor.exe
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Vetor\bin\Debug\net5.0\Exe1Vetor.deps.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Vetor\bin\Debug\net5.0\Exe1Vetor.runtimeconfig.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Vetor\bin\Debug\net5.0\Exe1Vetor.runtimeconfig.dev.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Vetor\bin\Debug\net5.0\Exe1Vetor.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Vetor\bin\Debug\net5.0\ref\Exe1Vetor.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Vetor\bin\Debug\net5.0\Exe1Vetor.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Vetor\obj\Debug\net5.0\Exe1Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Vetor\obj\Debug\net5.0\Exe1Vetor.AssemblyInfoInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Vetor\obj\Debug\net5.0\Exe1Vetor.AssemblyInfo.cs
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Vetor\obj\Debug\net5.0\Exe1Vetor.csproj.CoreCompileInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Vetor\obj\Debug\net5.0\Exe1Vetor.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Vetor\obj\Debug\net5.0\ref\Exe1Vetor.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Vetor\obj\Debug\net5.0\Exe1Vetor.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\Exe1Vetor\obj\Debug\net5.0\Exe1Vetor.genruntimeconfig.cache

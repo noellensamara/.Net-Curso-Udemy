@@ -1,0 +1,15 @@
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeDolarStatic\bin\Debug\net5.0\ExeDolarStatic.exe
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeDolarStatic\bin\Debug\net5.0\ExeDolarStatic.deps.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeDolarStatic\bin\Debug\net5.0\ExeDolarStatic.runtimeconfig.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeDolarStatic\bin\Debug\net5.0\ExeDolarStatic.runtimeconfig.dev.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeDolarStatic\bin\Debug\net5.0\ExeDolarStatic.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeDolarStatic\bin\Debug\net5.0\ref\ExeDolarStatic.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeDolarStatic\bin\Debug\net5.0\ExeDolarStatic.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeDolarStatic\obj\Debug\net5.0\ExeDolarStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeDolarStatic\obj\Debug\net5.0\ExeDolarStatic.AssemblyInfoInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeDolarStatic\obj\Debug\net5.0\ExeDolarStatic.AssemblyInfo.cs
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeDolarStatic\obj\Debug\net5.0\ExeDolarStatic.csproj.CoreCompileInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeDolarStatic\obj\Debug\net5.0\ExeDolarStatic.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeDolarStatic\obj\Debug\net5.0\ref\ExeDolarStatic.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeDolarStatic\obj\Debug\net5.0\ExeDolarStatic.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ExeDolarStatic\obj\Debug\net5.0\ExeDolarStatic.genruntimeconfig.cache

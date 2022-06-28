@@ -1,0 +1,15 @@
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorRefOut\bin\Debug\net5.0\ModificadorRefOut.exe
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorRefOut\bin\Debug\net5.0\ModificadorRefOut.deps.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorRefOut\bin\Debug\net5.0\ModificadorRefOut.runtimeconfig.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorRefOut\bin\Debug\net5.0\ModificadorRefOut.runtimeconfig.dev.json
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorRefOut\bin\Debug\net5.0\ModificadorRefOut.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorRefOut\bin\Debug\net5.0\ref\ModificadorRefOut.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorRefOut\bin\Debug\net5.0\ModificadorRefOut.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorRefOut\obj\Debug\net5.0\ModificadorRefOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorRefOut\obj\Debug\net5.0\ModificadorRefOut.AssemblyInfoInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorRefOut\obj\Debug\net5.0\ModificadorRefOut.AssemblyInfo.cs
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorRefOut\obj\Debug\net5.0\ModificadorRefOut.csproj.CoreCompileInputs.cache
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorRefOut\obj\Debug\net5.0\ModificadorRefOut.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorRefOut\obj\Debug\net5.0\ref\ModificadorRefOut.dll
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorRefOut\obj\Debug\net5.0\ModificadorRefOut.pdb
+C:\Users\noell\Desktop\Cursos\C#\Udemy - C# Completo POO + Projetos\Repositorios\ModificadorRefOut\obj\Debug\net5.0\ModificadorRefOut.genruntimeconfig.cache
